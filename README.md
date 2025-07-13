@@ -1,2 +1,3 @@
 # Tutorial-Hell
-My progress submission for the inbound shovel jam!
+
+This is the progress for my submission on the inbound shovel jam
